@@ -1,0 +1,4 @@
+comments:
+  allowedFields: ["name", "email", "comment"]
+  requiredFields: ["name", "comment"]
+  branch: "master"
